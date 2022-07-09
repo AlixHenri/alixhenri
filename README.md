@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 19 Anos
+### Estudante de engenharia da computação
 
 <!--
 **AlixHenri/alixhenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
