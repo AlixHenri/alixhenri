@@ -1,7 +1,3 @@
-### Hi there 👋
-### 19 Anos
-### Estudante de engenharia da computação
-
 <!--
 **AlixHenri/alixhenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--Github Stats Panel-->
+<div align="center">
+  <a href="https://github.com/alixhenri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alixhenri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixhenri&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<!--Snake Animation-->
 ![snake gif](https://github.com/AlixHenri/AlixHenri/blob/output/github-contribution-grid-snake.svg)
