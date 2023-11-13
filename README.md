@@ -32,5 +32,3 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/matheus-henri-fran%C3%A7a-aa83061b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>  
 
-<!--Snake Animation-->
-![snake gif](https://github.com/AlixHenri/AlixHenri/blob/output/github-contribution-grid-snake.svg)
